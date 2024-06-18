@@ -1,0 +1,3 @@
+Milk,10.2
+Bread,40.5
+Eggs,6.2

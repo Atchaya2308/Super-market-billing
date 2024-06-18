@@ -1,0 +1,8 @@
+Supermarket Receipt
+====================
+Apple x4 @ $110.50 each: $442.00
+Potato x5 @ $0.20 each: $1.00
+====================
+Total: $443.00
+GST (18%): $79.74
+Final Total: $522.74
